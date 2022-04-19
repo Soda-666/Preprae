@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150616796501",
+    "project_id": "mypreprae",
+    "storage_bucket": "mypreprae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150616796501:android:ababaf17a800ada071d3dc",
+        "android_client_info": {
+          "package_name": "com.example.soft_dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150616796501-gu9c87tkio7q2r4cf8hd3jo4ku1o5qrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6uYm8uyCfzQ2HsKcZrPNpXHJybPKLZzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150616796501-gu9c87tkio7q2r4cf8hd3jo4ku1o5qrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
